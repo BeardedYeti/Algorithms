@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms that I've figured out
+Javascript Algorithms that I've figured out. These were challenges as part of FreeCodeCamp.
